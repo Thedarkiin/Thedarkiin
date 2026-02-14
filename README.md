@@ -62,10 +62,11 @@ graph LR
     A --> E["PyTorch"]
     
     F["JavaScript"] --> G["React"]
-    F --> H["HTML/CSS"]
+    F --> H["Three.js"]
+    F --> I["HTML/CSS"]
     
-    I["Git"] --> J["Version Control"]
-    K["Docker"] --> L["Containerization"]
+    J["Git"]
+    K["Docker"]
     
     style A fill:#3776AB,stroke:#005f73,color:#fff,stroke-width:3px
     style B fill:#013243,stroke:#005f73,color:#fff
@@ -74,14 +75,13 @@ graph LR
     style E fill:#EE4C2C,stroke:#005f73,color:#fff
     style F fill:#F7DF1E,stroke:#005f73,color:#000,stroke-width:3px
     style G fill:#61DAFB,stroke:#005f73,color:#000
-    style H fill:#1572B6,stroke:#005f73,color:#fff
-    style I fill:#F05032,stroke:#005f73,color:#fff,stroke-width:2px
+    style H fill:#8B4789,stroke:#005f73,color:#fff
+    style I fill:#1572B6,stroke:#005f73,color:#fff
+    style J fill:#F05032,stroke:#005f73,color:#fff,stroke-width:2px
     style K fill:#2496ED,stroke:#005f73,color:#fff,stroke-width:2px
-    style J fill:#005f73,stroke:#00B4D8,color:#fff
-    style L fill:#005f73,stroke:#00B4D8,color:#fff
 ```
 
-**Core:** Python · JavaScript · PyTorch · React · Git · Docker
+**Core:** Python · JavaScript · PyTorch · React · Three.js · Git · Docker
 
 <div align="center">
 
