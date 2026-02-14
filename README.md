@@ -15,7 +15,7 @@
 
 ## 👋 About
 
-Data Science student at **INSEA** (Rabat, Morocco). I build systems that think clearly — code that's reproducible, mathematically rigorous, and built to last. Obsessed with understanding *how* things work, not just *that* they work. Curiosity-driven: mathematics, physics, causality, neural computation. When not coding: climbing mountains, playing volleyball, contemplating the sea.
+Data Science student at **INSEA** (Rabat, Morocco). I always seek building systems not only that think clearly — code that's reproducible, mathematically rigorous, and built almost to last. Obsessed (WOWOW not that much hhh) with understanding *how* things work, not just *that* they work. Curiosity-driven: mathematics, physics, psychology... ALL type of sciences actually. When not coding:solo free climbs, playing volleyball, contemplating the sea, movies, anime sometimes, plenty of eating, someone stop me already .
 
 <div align="center">
 
@@ -26,10 +26,10 @@ Data Science student at **INSEA** (Rabat, Morocco). I build systems that think c
 ## 🎯 Currently Exploring
 
 ```
-→ Causal Inference & DAGs
+→ Causal Inference
 → Neural Networks & Deep Learning
 → Systems Design & Architecture
-→ Mathematical Foundations
+→ Mathematical Foundations (always)
 ```
 
 <div align="center">
@@ -38,12 +38,11 @@ Data Science student at **INSEA** (Rabat, Morocco). I build systems that think c
 
 </div>
 
-## 💡 Philosophy
+## 💡 How i work
 
 I believe in:
-- **Clarity over cleverness** — Code should be readable
-- **Reproducibility first** — Deterministic pipelines, fixed seeds
-- **Mathematical rigor** — Understand the foundations
+- **Reproducibility first** — Deterministic pipelines, decoupled codebase, separate env
+- **Mathematical rigor** — Math is the foundation
 - **Testing everything** — Small, fast tests catch bugs early
 - **Systems thinking** — ML is part of larger ecosystems
 
@@ -112,29 +111,12 @@ graph LR
 
 ## 🎲 Interests & Outside Code
 
-**Physical:** Climbing (problem-solving with your hands), Volleyball, Calisthenics  
+**Physical:** Climbing (free climbs), Volleyball, Calisthenics  
 **Mental:** Gaming, Strategy, Philosophy  
 **Natural:** Ocean, Mountains, Thinking deeply
 
 <div align="center">
 
----
-
-</div>
-
-## 📍 Quick Facts
-
-| | |
-|---|---|
-| **Location** | Rabat, Morocco 🇲🇦 |
-| **Education** | Data Science Student @ INSEA |
-| **Approach** | Systems thinking > individual metrics |
-| **Focus** | Causal inference, Neural nets, Mathematical rigor |
-| **Languages** | Français · English · Code |
-
-<div align="center">
-
----
 
 </div>
 
