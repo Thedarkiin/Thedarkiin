@@ -9,94 +9,71 @@
 
 ---
 
-## 🎯 Tech Stack (Interactive Diagram)
+## 🎯 Tech Stack
 
 ```mermaid
 graph LR
-    A["🧠 Core"] --> B["Python"]
+    A["🧠 CORE"] --> B["Python"]
     A --> C["PyTorch"]
     A --> D["JavaScript"]
     A --> E["React"]
     
     B --> F["NumPy"]
     B --> G["Pandas"]
-    B --> H["Scikit-learn"]
+    B --> H["Scikit"]
     
     C --> I["Deep Learning"]
-    C --> J["Neural Networks"]
+    C --> J["Neural Nets"]
     
     D --> K["Frontend"]
     E --> K
     
-    F -.→ L["Data Science"]
-    G -.→ L
-    H -.→ L
-    I -.→ L
-    J -.→ L
-    
-    style A fill:#00B4D8,stroke:#005f73,color:#fff
+    style A fill:#00B4D8,stroke:#005f73,color:#fff,stroke-width:3px
     style F fill:#3776AB,stroke:#005f73,color:#fff
     style G fill:#150458,stroke:#005f73,color:#fff
     style H fill:#F7931E,stroke:#005f73,color:#fff
     style I fill:#EE4C2C,stroke:#005f73,color:#fff
     style J fill:#EE4C2C,stroke:#005f73,color:#fff
     style K fill:#61DAFB,stroke:#005f73,color:#000
-    style L fill:#005f73,stroke:#00B4D8,color:#fff
+    style B fill:#3776AB,stroke:#005f73,color:#fff
+    style C fill:#EE4C2C,stroke:#005f73,color:#fff
+    style D fill:#F7DF1E,stroke:#005f73,color:#000
+    style E fill:#61DAFB,stroke:#005f73,color:#000
+```
+
+---
+
+## 🔄 Learning Journey
+
+```mermaid
+graph TD
+    A["📚 Learning"] --> B["🛠️ Building"]
+    B --> C["⚙️ Systems"]
+    C --> D["📈 Scaling"]
+    D --> E["🚀 Innovation"]
+    
+    style A fill:#001219,stroke:#00B4D8,color:#fff,stroke-width:2px
+    style B fill:#003049,stroke:#00B4D8,color:#fff,stroke-width:2px
+    style C fill:#005f73,stroke:#00B4D8,color:#fff,stroke-width:2px
+    style D fill:#00B4D8,stroke:#005f73,color:#000,stroke-width:2px
+    style E fill:#005f73,stroke:#00B4D8,color:#fff,stroke-width:2px
 ```
 
 ---
 
 ## 📊 Proficiency Matrix
 
-<table align="center">
-<tr>
-<td>
-
-| Skill | Level |
-|:---:|:---:|
-| Python | ████████░ 95% |
-| PyTorch | ███████░░ 85% |
-| JavaScript | ████████░ 90% |
-| SQL | ███████░░ 88% |
-| React | ███████░░ 82% |
-
-</td>
-<td>
-
-| Skill | Level |
-|:---:|:---:|
-| NumPy/Pandas | █████████ 92% |
-| Data Science | █████████ 93% |
-| Web Stack | ███████░░ 87% |
-| Mathematics | █████████ 95% |
-| Systems Design | ████████░ 89% |
-
-</td>
-</tr>
-</table>
+| Skill | Level | Skill | Level |
+|:---:|:---:|:---:|:---:|
+| Python | ████████░ 95% | NumPy/Pandas | █████████ 92% |
+| PyTorch | ███████░░ 85% | Data Science | █████████ 93% |
+| JavaScript | ████████░ 90% | Web Stack | ███████░░ 87% |
+| SQL | ███████░░ 88% | Mathematics | █████████ 95% |
+| React | ███████░░ 82% | Systems Design | ████████░ 89% |
 
 ---
 
-## 🔄 Learning Journey (Animated Diagram)
-
-```mermaid
-graph TD
-    A["📚 Learning<br/>Fundamentals"] --> B["🛠️ Building<br/>Projects"]
-    B --> C["⚙️ Systems<br/>Design"]
-    C --> D["📈 Scaling<br/>Production"]
-    D --> E["🚀 Innovation<br/>Next Wave"]
-    E -.→ A
-    
-    style A fill:#001219,stroke:#00B4D8,color:#fff
-    style B fill:#003049,stroke:#00B4D8,color:#fff
-    style C fill:#005f73,stroke:#00B4D8,color:#fff
-    style D fill:#00B4D8,stroke:#005f73,color:#000
-    style E fill:#005f73,stroke:#00B4D8,color:#fff
-```
-
----
-
-## 🛠️ Tech Badges
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -112,10 +89,10 @@ graph TD
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -123,32 +100,32 @@ graph TD
 
 ---
 
-## 📈 Stats Dashboard
+## 📈 Stats
 
-```mermaid
-pie title Projects & Contributions
-    "Shipped" : 12
-    "In Progress" : 3
-    "Learning" : 5
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-12+-005f73?style=for-the-badge&labelColor=001219&color=00B4D8" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Code-50K+-003049?style=for-the-badge&labelColor=001219&color=00B4D8" alt="Lines of Code"/>
+  <img src="https://img.shields.io/badge/Tech%20Skills-15+-005f73?style=for-the-badge&labelColor=001219&color=00B4D8" alt="Tech Skills"/>
+  <img src="https://img.shields.io/badge/Learning-∞-001219?style=for-the-badge&labelColor=005f73&color=00B4D8" alt="Always Learning"/>
+</p>
 
 ---
 
 ## 💡 Core Skills
 
 ```
-┌─────────────────────────────────────┐
-│                                     │
-│  ✓ Numerical methods               │
-│  ✓ Applied mathematics             │
-│  ✓ Time series & forecasting       │
-│  ✓ Model evaluation                │
-│  ✓ Reproducible pipelines          │
-│  ✓ Clean modular code              │
-│  ✓ Feature engineering             │
-│  ✓ Systems thinking                │
-│                                     │
-└─────────────────────────────────────┘
+┌──────────────────────────────────┐
+│                                  │
+│  ✓ Numerical Methods             │
+│  ✓ Applied Mathematics           │
+│  ✓ Time Series & Forecasting     │
+│  ✓ Model Evaluation              │
+│  ✓ Reproducible Pipelines        │
+│  ✓ Clean Modular Code            │
+│  ✓ Feature Engineering           │
+│  ✓ Systems Thinking              │
+│                                  │
+└──────────────────────────────────┘
 ```
 
 ---
@@ -157,17 +134,6 @@ pie title Projects & Contributions
 
 Data Science student at INSEA. I value clarity, mathematical rigor, and reproducible code.  
 Curiosity drives my work — I study mathematics, physics, and human cognition. Outside of study: climbing, volleyball, calisthenics, gaming, and the sea.
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Projects-12+-005f73?style=for-the-badge&labelColor=001219" alt="Projects"/>
-  <img src="https://img.shields.io/badge/Code-50K+-00B4D8?style=for-the-badge&labelColor=001219" alt="Lines of Code"/>
-  <img src="https://img.shields.io/badge/Tech%20Skills-15+-003049?style=for-the-badge&labelColor=001219" alt="Tech Skills"/>
-  <img src="https://img.shields.io/badge/Learning-∞-005f73?style=for-the-badge&labelColor=001219" alt="Always Learning"/>
-</p>
 
 ---
 
@@ -192,5 +158,5 @@ Curiosity drives my work — I study mathematics, physics, and human cognition. 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thedarkiin&color=00B4D8&style=flat-square" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=thedarkiin&color=00B4D8&style=flat-square" alt="Profile Views"/>
 </p>
