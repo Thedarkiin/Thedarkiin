@@ -89,10 +89,18 @@ graph LR
 
 </div>
 
-## 📊 Language Distribution
+## 📊 Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thedarkiin&layout=compact&theme=dark&hide_border=true&bg_color=001219&title_color=ffffff&text_color=c9cacc" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Thedarkiin&theme=dark&background=001219&ring=00B4D8&fire=EE4C2C&currStreakLabel=00B4D8" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thedarkiin&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thedarkiin&theme=github_dark" alt="Repos per Language" />
 </p>
 
 <div align="center">
