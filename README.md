@@ -39,22 +39,6 @@ graph LR
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedarkiin&show_icons=true&theme=dark&hide_border=true&bg_color=001219&title_color=ffffff&text_color=c9cacc&icon_color=00B4D8" alt="GitHub Stats"/>
-</p>
-
----
-
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedarkiin&layout=compact&theme=dark&hide_border=true&bg_color=001219&title_color=ffffff&text_color=c9cacc" alt="Top Languages"/>
-</p>
-
----
-
 ## Contact
 
 <p align="center">
