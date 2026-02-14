@@ -15,7 +15,7 @@
 
 ## 👋 About
 
-Data Science student at **INSEA** (Rabat, Morocco). I always seek building systems not only that think clearly — code that's reproducible, mathematically rigorous, and built almost to last. Obsessed (WOWOW not that much hhh) with understanding *how* things work, not just *that* they work. Curiosity-driven: mathematics, physics, psychology... ALL type of sciences actually. When not coding:solo free climbs, playing volleyball, contemplating the sea, movies, anime sometimes, plenty of eating, someone stop me already .
+Data Science student at **INSEA** (Rabat, Morocco). I always seek building systems not only that think clearly — code that's reproducible, mathematically rigorous, and built almost to last. Obsessed (WOWOW not that much hhh) with understanding *how* things work, not just *that* they work. Curiosity-driven: mathematics, physics, psychology... ALL type of sciences actually. When not coding: solo free climbs, playing volleyball, contemplating the sea, movies, anime sometimes, plenty of eating, someone stop me already.
 
 <div align="center">
 
@@ -89,18 +89,10 @@ graph LR
 
 </div>
 
-## 📊 Activity & Contributions
+## 📊 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Thedarkiin&theme=dark&background=001219&ring=00B4D8&fire=EE4C2C&currStreakLabel=00B4D8" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thedarkiin&theme=github_dark" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thedarkiin&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thedarkiin&layout=compact&theme=dark&hide_border=true&bg_color=001219&title_color=ffffff&text_color=c9cacc" alt="Top Languages" />
 </p>
 
 <div align="center">
@@ -117,6 +109,7 @@ graph LR
 
 <div align="center">
 
+---
 
 </div>
 
