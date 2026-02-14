@@ -1,100 +1,110 @@
-<h1 align="left">Yassin Asermouh</h1>
+<!--
+  High-temperature, design-forward GitHub Profile README
+  - No emojis, no CV content
+  - Animated typing header (SVG)
+  - Animated gradient banner (inline SVG, no external JS)
+  - Minimal, modular sections with personality
+-->
 
-<p align="left">
-Data Science Engineering Student · Machine Learning Engineer<br>
-Focused on production-grade ML systems, forecasting, and scalable architectures
-</p>
+<!-- Hero / header -->
+<div align="center">
 
-<p align="left">
-<a href="https://github.com/Thedarkiin">GitHub</a> ·
-<a href="https://linkedin.com/in/yassin-asermouh-984aa8249">LinkedIn</a> ·
-<a href="https://thedarkiin.github.io/portfolio/">Portfolio</a>
-</p>
+  <!-- animated gradient banner (inline SVG, lightweight) -->
+  <svg width="100%" height="140" viewBox="0 0 1200 140" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <defs>
+      <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="0%">
+        <stop offset="0%" stop-color="#0f172a">
+          <animate attributeName="stop-color" dur="8s" repeatCount="indefinite"
+            values="#0f172a;#0b1220;#07273a;#0f172a" />
+        </stop>
+        <stop offset="50%" stop-color="#002b36">
+          <animate attributeName="stop-color" dur="8s" repeatCount="indefinite"
+            values="#002b36;#003b4a;#0b3a4a;#002b36" />
+        </stop>
+        <stop offset="100%" stop-color="#001219">
+          <animate attributeName="stop-color" dur="8s" repeatCount="indefinite"
+            values="#001219;#001827;#011e2f;#001219" />
+        </stop>
+      </linearGradient>
 
----
+      <!-- subtle moving mask used to give a slow parallax wave illusion -->
+      <pattern id="p" x="0" y="0" width="1200" height="140" patternUnits="userSpaceOnUse">
+        <rect x="0" y="0" width="1200" height="140" fill="url(#g)"/>
+      </pattern>
+    </defs>
 
-## About
+    <!-- base rect with gradient -->
+    <rect width="1200" height="140" fill="url(#g)"/>
 
-Data Science Engineering student at INSEA (Class of 2028) building end-to-end machine learning systems with emphasis on:
+    <!-- three semi-transparent sine layers to suggest movement -->
+    <g fill-opacity="0.12" stroke="none">
+      <path d="M0 90 C150 70 300 110 450 90 C600 70 750 110 900 90 C1050 70 1200 110 1350 90 L1350 140 L0 140 Z" fill="#ffffff">
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" dur="10s" repeatCount="indefinite" values="0 0; -150 0; 0 0"/>
+      </path>
+      <path d="M0 100 C200 80 400 120 600 100 C800 80 1000 120 1200 100 C1400 80 1600 120 1800 100 L1800 140 L0 140 Z" fill="#000000">
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" dur="14s" repeatCount="indefinite" values="0 0; -220 0; 0 0"/>
+      </path>
+    </g>
 
-- Forecasting & time series modeling  
-- Transformer architectures  
-- Structured ML pipelines  
-- Production-oriented design  
-- Model uncertainty & evaluation rigor  
+    <!-- centered title text (plain, no emoji) -->
+    <text x="50%" y="55" text-anchor="middle" dominant-baseline="middle" font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-size="24" fill="#D1D5DB">
+      Yassin Asermouh — Data Science student (INSEA)
+    </text>
+  </svg>
 
-I focus on building systems that are reproducible, modular, and deployment-aware.
+  <!-- animated typing line (external SVG generator) -->
+  <p>
+    <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=D1D5DB&center=true&width=720&lines=modular+engineer;volleyball+player;climber+%7C+sea+enthusiast;calisthenics+practitioner;drawer+occasionally" />
+  </p>
 
----
-
-## Selected Projects
-
-### Physics-Informed Wind Transformer  
-Transformer architecture for industrial wind power forecasting (110k+ samples)
-
-- 19% improvement over LSTM baseline (24h horizon)
-- Custom Ramp Loss for critical event detection (F1 = 0.85)
-- Monte Carlo Dropout for uncertainty quantification
-- Full pipeline: preprocessing → feature engineering → CV → evaluation
-- 37-page technical report
-
-Repository:  
-https://github.com/Thedarkiin/wind-forecasting
-
-
-### Telecom Churn Prediction Pipeline  
-Modular production-style ML pipeline (6 components)
-
-- XGBoost with 75% recall (3/4 at-risk customers detected)
-- Feature selection via Mutual Information
-- Structured logging & automated metrics export
-- Reproducible architecture mimicking real-world workflows
-
-Repository:  
-https://github.com/Thedarkiin/churn-prediction
-
-
----
-
-## Technical Stack
-
-**Languages**  
-Python
-
-**ML / DL**  
-PyTorch · Scikit-learn · XGBoost
-
-**Data**  
-Pandas · NumPy · Feature Engineering · Time Series Processing
-
-**Engineering Practices**  
-Modular Design · Cross-Validation · Logging · Reproducibility · Experiment Tracking
+</div>
 
 ---
 
-## Engineering Philosophy
+## About me
 
-I treat ML projects as systems, not notebooks.
+I am a Data Science student at INSEA. I prefer **modular code** over notebooks — I design reproducible components, unit-testable modules, and deterministic pipelines.
 
-- Clear separation of concerns  
-- Deterministic pipelines  
-- Metrics before models  
-- Interpretability before deployment  
-- Architecture over hacks  
+Outside of code: volleyball, soccer, climbing, calisthenics, gaming, the sea, and occasional drawing.
 
 ---
 
-## Current Focus
+## Interests & curiosity
 
-- Physics-informed machine learning  
-- Transformer architectures for structured data  
-- Causal reasoning foundations  
-- Production-ready ML workflows  
+- Neurons · Mathematics · Psychology  
+- Physics and the foundational side of computation  
+- Systems thinking: treat ML as production systems, not one-off notebooks
 
 ---
 
-## Availability
+## Quick facts
 
-Remote · Freelance · Part-time (15–25h/week)
+| Role | Location | Portfolio |
+|---:|:---|:---|
+| Student — Data Science (INSEA) | Rabat, Morocco | https://thedarkiin.github.io/portfolio/ |
 
-Contact: asermouhyassin@gmail.com
+---
+
+<details>
+<summary>Skills & habits (expand)</summary>
+
+- Languages & tools (concise): Python · PyTorch · Scikit-learn · NumPy · Pandas  
+- Engineering habits: modular code, reproducible pipelines, structured logging, small tests  
+- Learning focus: mathematical rigor, neuro-inspired ideas, causal thinking
+</details>
+
+---
+
+## Small touches you can enable
+
+- **Typing animation** — uses a small dynamic SVG service (example pattern above) to produce a typewriter effect. See: readme-typing-svg. :contentReference[oaicite:1]{index=1}  
+- **Animated gradient / wave** — inline SVG uses SMIL/CSS animations for a lightweight, moving banner (no JS). See generators and wave examples. :contentReference[oaicite:2]{index=2}  
+- **(Optional)** GitHub stat cards (language & commits) from `github-readme-stats` if you want compact analytics in the header. :contentReference[oaicite:3]{index=3}
+
+---
+
+## Contact
+
+Portfolio: https://thedarkiin.github.io/portfolio/  
+Email: asermouhyassin@gmail.com
+
