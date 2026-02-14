@@ -15,12 +15,13 @@ Data Science student at **INSEA** (Rabat, Morocco). I build systems that think c
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Currently Exploring
 
 ```
 → Causal Inference & DAGs
-→ Reproducible Code & Automated Testing  
-→ Systems Design & Production ML
+→ Neural Networks & Deep Learning
+→ Systems Design & Architecture
+→ Mathematical Foundations
 ```
 
 ---
@@ -48,7 +49,8 @@ graph LR
     F["JavaScript"] --> G["React"]
     F --> H["HTML/CSS"]
     
-    I["SQL"] --> J["Data"]
+    I["Git"] --> J["Version Control"]
+    K["Docker"] --> L["Containerization"]
     
     style A fill:#3776AB,stroke:#005f73,color:#fff,stroke-width:3px
     style B fill:#013243,stroke:#005f73,color:#fff
@@ -58,22 +60,24 @@ graph LR
     style F fill:#F7DF1E,stroke:#005f73,color:#000,stroke-width:3px
     style G fill:#61DAFB,stroke:#005f73,color:#000
     style H fill:#1572B6,stroke:#005f73,color:#fff
-    style I fill:#003B57,stroke:#005f73,color:#fff,stroke-width:2px
+    style I fill:#F05032,stroke:#005f73,color:#fff,stroke-width:2px
+    style K fill:#2496ED,stroke:#005f73,color:#fff,stroke-width:2px
     style J fill:#005f73,stroke:#00B4D8,color:#fff
+    style L fill:#005f73,stroke:#00B4D8,color:#fff
 ```
 
-**Core Stack:** Python · JavaScript · PyTorch · React · SQL · Git
+**Core:** Python · JavaScript · PyTorch · React · Git · Docker
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thedarkiin&show_icons=true&count_private=true&hide_rank=false&theme=dark&title_color=00B4D8&text_color=c9cacc&icon_color=00B4D8&bg_color=001219&hide_border=true" alt="GitHub Stats" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thedarkiin&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thedarkiin&layout=compact&theme=dark&title_color=00B4D8&text_color=c9cacc&bg_color=001219&hide_border=true" alt="Top Languages" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thedarkiin&theme=github_dark" alt="Repos per Language" />
 </p>
 
 ---
@@ -93,8 +97,8 @@ graph LR
 | **Location** | Rabat, Morocco 🇲🇦 |
 | **Education** | Data Science Student @ INSEA |
 | **Approach** | Systems thinking > individual metrics |
-| **Focus** | Reproducibility, Mathematical rigor, Clean code |
-| **Language** | Français · English · Code |
+| **Focus** | Causal inference, Neural nets, Mathematical rigor |
+| **Languages** | Français · English · Code |
 
 ---
 
