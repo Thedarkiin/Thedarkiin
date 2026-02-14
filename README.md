@@ -130,9 +130,6 @@ graph LR
   <a href="mailto:asermouhyassin@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-003049?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/Thedarkiin">
-    <img src="https://img.shields.io/badge/GitHub-Profile-001219?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 <div align="center">
