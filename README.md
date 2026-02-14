@@ -1,132 +1,153 @@
+<!-- IMMERSIVE HEADER -->
 <div align="center">
-
-<!-- Animated Header with Gradient and Typing Effect -->
-![Header](https://img.shields.io/badge/🚀%20Yassin%20Asermouh-Data%20Science%20%7C%20Production%20Systems-0f0f23?style=for-the-badge&labelColor=0f0f23&color=1f1f3f)
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+reproducible+data+systems;Mathematics+%2B+Neurons+%2B+Code;Production-grade+pipelines;Modular+architecture+advocate)](https://github.com/thedarkiin)
-
-</div>
-
----
-
-## 🎯 Philosophy & Focus
-
-I build **data science systems, not one-off notebooks**. My approach:
+<h1 style="margin: 0; font-size: 2.5em; letter-spacing: 3px; color: #0a7e98;">
+YASSIN ASERMOUH
+</h1>
+<p style="margin: 5px 0 20px 0; font-size: 1.1em; color: #666; letter-spacing: 1px;">
+Data Science • Systems Thinking • Building with Intent
+</p>
 
 ```
-Modular Code → Reproducible Pipelines → Unit-Testable Modules → Production Ready
+≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈
+  Ocean depth. Mountain peaks. Clean code.
+≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈
 ```
 
-I'm fascinated by the intersection of **neurons, mathematics, and computation**—understanding how intelligent systems work from first principles, then building deterministic pipelines that scale.
-
----
-
-## 💻 Tech Stack & Engineering Habits
-
-<div align="center">
-
-| **Category** | **Tools** |
-|:---:|:---|
-| 🐍 **Languages** | Python, SQL |
-| 🔬 **ML & Data** | PyTorch, Scikit-learn, NumPy, Pandas |
-| 📊 **Visualization** | Matplotlib, Seaborn, Plotly |
-| 🏗️ **Engineering** | Modular code, structured logging, unit tests, CI/CD |
-| 🧠 **Mindset** | Mathematical rigor, causal thinking, systems thinking |
-
-</div>
-
-**Key Engineering Habits:**
-- ✅ Small, composable modules with clear interfaces
-- ✅ Deterministic pipelines with reproducible seeds
-- ✅ Comprehensive unit tests (not just notebooks)
-- ✅ Structured logging for production debugging
-- ✅ Documentation as first-class citizen
-
----
-
-## 🌐 About Me
-
-| Profile | Link |
-|:---|:---|
-| 🎓 **Role** | Data Science Student (INSEA) |
-| 📍 **Location** | Rabat, Morocco |
-| 🌍 **Interests** | Neural systems · Mathematics · Physics · Causal inference · Systems design |
-| ⚽ **Off-code** | Volleyball, Soccer, Climbing, Calisthenics, Gaming, Drawing |
-
----
-
-## 🚀 Current Interests & Curiosity
-
-- **Neurons**: How biological and artificial neural systems compute
-- **Mathematics**: The rigor behind machine learning and algorithms
-- **Physics**: Foundational principles of computation and reality
-- **Systems Thinking**: Treating ML as production systems, not academic exercises
-- **Causal Inference**: Understanding not just correlations but mechanisms
-
----
-
-## 📊 GitHub at a Glance
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedarkiin&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f23&title_color=00d9ff&icon_color=00d9ff&text_color=e0e0ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=thedarkiin&layout=compact&theme=dark&hide_border=true&bg_color=0f0f23&title_color=00d9ff&text_color=e0e0ff)
-
 </div>
 
 ---
 
-## 🔧 What I'm Building
+<br>
 
-My work centers on **production-grade data science**:
+## 🧭 Who?
 
-- **Reproducible Pipelines**: End-to-end workflows with deterministic outputs
-- **Modular Components**: Reusable, testable units that compose cleanly
-- **Rigorous ML**: Mathematical understanding before implementation
-- **Systems Design**: Understanding ML as part of larger production ecosystems
+I think differently about problems. Code clean. Build systems that scale.
+
+<details open>
+<summary style="cursor: pointer; user-select: none; font-weight: 600; color: #0a7e98;"><b>→ Full story (click)</b></summary>
+
+I'm a data science student at **INSEA** in Rabat. But that's just the label.
+
+What I actually do:
+- **Understand systems** — how they break, why they work, what makes them elegant
+- **Write code** that others can read, extend, test
+- **Learn relentlessly** — mathematics, psychology, how neurons compute
+- **Teach** what I've figured out so others don't restart from zero
+
+I work with **Python**, **PyTorch**, **JavaScript**, **HTML/CSS**. Not because the tools matter—they don't. Because using them well shows you understand.
+
+</details>
+
+<br>
 
 ---
 
-## 📚 Latest Focus Areas
+## 🌊 What drives me
 
 ```
-├── Deep Learning Architecture
-├── Causal Inference & DAGs
-├── Distributed Systems for ML
-├── Mathematical Foundations
-└── Production ML Systems Design
+┌─ OCEAN & NATURE ──────────────────────────┐
+│ Water = clarity. Endless, patient, deep.  │
+│ Where thinking happens clearly.           │
+└──────────────────────────────────────────┘
 ```
 
+```
+┌─ CLIMBING ────────────────────────────────┐
+│ Every move = decision. Physics + courage. │
+│ Failure teaches faster than success.      │
+└──────────────────────────────────────────┘
+```
+
+```
+┌─ PHILOSOPHY & MATHEMATICS ────────────────┐
+│ Why? How? What's the pattern underneath?  │
+│ Rigor > intuition (they go together).     │
+└──────────────────────────────────────────┘
+```
+
+```
+┌─ ART & DESIGN ────────────────────────────┐
+│ Beauty is efficiency. Information speaks. │
+│ If it's hard to read, it's wrong.        │
+└──────────────────────────────────────────┘
+```
+
+```
+┌─ TEACHING ────────────────────────────────┐
+│ Explaining = understanding deeply.        │
+│ The best teachers are still learning.     │
+└──────────────────────────────────────────┘
+```
+
+<br>
+
 ---
 
-## 💌 Let's Connect
+## 🛠️ Stack
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-thedarkiin.github.io-00d9ff?style=for-the-badge&logo=firefox)](https://thedarkiin.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-asermouhyassin@gmail.com-00d9ff?style=for-the-badge&logo=gmail)](mailto:asermouhyassin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassin%20Asermouh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yassin-asermouh)
-[![GitHub](https://img.shields.io/badge/GitHub-@thedarkiin-181717?style=for-the-badge&logo=github)](https://github.com/thedarkiin)
+| **Data & ML** | **Languages** | **Web/Design** |
+|:---:|:---:|:---:|
+| PyTorch | Python | HTML |
+| NumPy/Pandas | SQL | CSS |
+| Scikit-learn | JavaScript | Clean Architecture |
 
 </div>
 
+<br>
+
 ---
 
-<div align="center">
+## 💭 Current Focus
 
-### 🎯 Open to conversations about:
-- **ML Systems Design** | **Causal Inference** | **Neural Computation** | **Rigorous ML** | **Data Engineering**
+<div style="border-left: 3px solid #0a7e98; padding-left: 15px; margin: 20px 0;">
 
-### 📖 *"Great scientists tolerate complexity; engineers resist it." — Your Work Should Reflect Both*
+**Now:** Causal inference · Reproducible systems · Better teaching
+
+**Curious about:** Neural foundations · Hidden patterns · What's next
+
+**Learning:** How to explain complex things simply
 
 </div>
 
+<br>
+
 ---
+
+## 🏔️ Based in
+
+**Rabat, Morocco** | INSEA | Always building something  
+
+<br>
+
+---
+
+## 📬 Reach out
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=thedarkiin&style=flat-square&color=0099ff)
+**[Portfolio](https://thedarkiin.github.io/portfolio/)** · **[Email](mailto:asermouhyassin@gmail.com)** · **[GitHub](https://github.com/thedarkiin)**
+
+</div>
+
+<br>
+
+---
+
+<div align="center" style="margin-top: 40px; opacity: 0.7;">
+
+```
+     /\
+    /  \
+   /    \        ← Always climbing
+  /______\
+
+  ~ ~ ~ ~ ~
+ ~ ~ ~ ~ ~ ~     ← Always thinking
+~ ~ ~ ~ ~ ~ ~
+```
+
+**"The best systems are invisible. They just work."**
 
 </div>
