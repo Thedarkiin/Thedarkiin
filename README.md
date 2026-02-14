@@ -7,13 +7,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=00B4D8&center=true&vCenter=true&width=600&lines=always+learning" alt="typing animation"/>
 </p>
 
+<div align="center">
+
 ---
+
+</div>
 
 ## 👋 About
 
 Data Science student at **INSEA** (Rabat, Morocco). I build systems that think clearly — code that's reproducible, mathematically rigorous, and built to last. Obsessed with understanding *how* things work, not just *that* they work. Curiosity-driven: mathematics, physics, causality, neural computation. When not coding: climbing mountains, playing volleyball, contemplating the sea.
 
+<div align="center">
+
 ---
+
+</div>
 
 ## 🎯 Currently Exploring
 
@@ -24,7 +32,11 @@ Data Science student at **INSEA** (Rabat, Morocco). I build systems that think c
 → Mathematical Foundations
 ```
 
+<div align="center">
+
 ---
+
+</div>
 
 ## 💡 Philosophy
 
@@ -35,7 +47,11 @@ I believe in:
 - **Testing everything** — Small, fast tests catch bugs early
 - **Systems thinking** — ML is part of larger ecosystems
 
+<div align="center">
+
 ---
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -68,9 +84,17 @@ graph LR
 
 **Core:** Python · JavaScript · PyTorch · React · Git · Docker
 
+<div align="center">
+
 ---
 
-## 📊 GitHub Activity
+</div>
+
+## 📊 Activity & Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Thedarkiin&theme=dark&background=001219&ring=00B4D8&fire=EE4C2C&currStreakLabel=00B4D8" alt="GitHub Contribution Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thedarkiin&theme=github_dark" alt="GitHub Profile Summary" />
@@ -80,7 +104,11 @@ graph LR
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thedarkiin&theme=github_dark" alt="Repos per Language" />
 </p>
 
+<div align="center">
+
 ---
+
+</div>
 
 ## 🎲 Interests & Outside Code
 
@@ -88,7 +116,11 @@ graph LR
 **Mental:** Gaming, Strategy, Philosophy  
 **Natural:** Ocean, Mountains, Thinking deeply
 
+<div align="center">
+
 ---
+
+</div>
 
 ## 📍 Quick Facts
 
@@ -100,7 +132,11 @@ graph LR
 | **Focus** | Causal inference, Neural nets, Mathematical rigor |
 | **Languages** | Français · English · Code |
 
+<div align="center">
+
 ---
+
+</div>
 
 ## 🔗 Connect
 
@@ -116,7 +152,11 @@ graph LR
   </a>
 </p>
 
+<div align="center">
+
 ---
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:005f73,100:001219&section=footer" alt="ocean footer"/>
