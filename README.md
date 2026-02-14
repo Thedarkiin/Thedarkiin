@@ -4,18 +4,39 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=00B4D8&center=true&vCenter=true&width=400&lines=BUILD" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=00B4D8&center=true&vCenter=true&width=600&lines=always+learning" alt="typing animation"/>
 </p>
 
 ---
 
-## About
+## 👋 About
 
-Data Science student at INSEA. I build things that matter — code that's clear, reproducible, and mathematically rigorous. Driven by curiosity: mathematics, physics, how systems work. Outside: climbing, volleyball, the sea.
+Data Science student at **INSEA** (Rabat, Morocco). I build systems that think clearly — code that's reproducible, mathematically rigorous, and built to last. Obsessed with understanding *how* things work, not just *that* they work. Curiosity-driven: mathematics, physics, causality, neural computation. When not coding: climbing mountains, playing volleyball, contemplating the sea.
 
 ---
 
-## Tech Stack
+## 🎯 Currently Learning
+
+```
+→ Causal Inference & DAGs
+→ Reproducible Code & Automated Testing  
+→ Systems Design & Production ML
+```
+
+---
+
+## 💡 Philosophy
+
+I believe in:
+- **Clarity over cleverness** — Code should be readable
+- **Reproducibility first** — Deterministic pipelines, fixed seeds
+- **Mathematical rigor** — Understand the foundations
+- **Testing everything** — Small, fast tests catch bugs early
+- **Systems thinking** — ML is part of larger ecosystems
+
+---
+
+## 🛠️ Tech Stack
 
 ```mermaid
 graph LR
@@ -27,29 +48,67 @@ graph LR
     F["JavaScript"] --> G["React"]
     F --> H["HTML/CSS"]
     
-    style A fill:#3776AB,stroke:#005f73,color:#fff,stroke-width:2px
+    I["SQL"] --> J["Data"]
+    
+    style A fill:#3776AB,stroke:#005f73,color:#fff,stroke-width:3px
     style B fill:#013243,stroke:#005f73,color:#fff
     style C fill:#150458,stroke:#005f73,color:#fff
     style D fill:#F7931E,stroke:#005f73,color:#fff
     style E fill:#EE4C2C,stroke:#005f73,color:#fff
-    style F fill:#F7DF1E,stroke:#005f73,color:#000,stroke-width:2px
+    style F fill:#F7DF1E,stroke:#005f73,color:#000,stroke-width:3px
     style G fill:#61DAFB,stroke:#005f73,color:#000
     style H fill:#1572B6,stroke:#005f73,color:#fff
+    style I fill:#003B57,stroke:#005f73,color:#fff,stroke-width:2px
+    style J fill:#005f73,stroke:#00B4D8,color:#fff
 ```
+
+**Core Stack:** Python · JavaScript · PyTorch · React · SQL · Git
 
 ---
 
-## Contact
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thedarkiin&show_icons=true&count_private=true&hide_rank=false&theme=dark&title_color=00B4D8&text_color=c9cacc&icon_color=00B4D8&bg_color=001219&hide_border=true" alt="GitHub Stats" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thedarkiin&layout=compact&theme=dark&title_color=00B4D8&text_color=c9cacc&bg_color=001219&hide_border=true" alt="Top Languages" width="100%" />
+</p>
+
+---
+
+## 🎲 Interests & Outside Code
+
+**Physical:** Climbing (problem-solving with your hands), Volleyball, Calisthenics  
+**Mental:** Gaming, Strategy, Philosophy  
+**Natural:** Ocean, Mountains, Thinking deeply
+
+---
+
+## 📍 Quick Facts
+
+| | |
+|---|---|
+| **Location** | Rabat, Morocco 🇲🇦 |
+| **Education** | Data Science Student @ INSEA |
+| **Approach** | Systems thinking > individual metrics |
+| **Focus** | Reproducibility, Mathematical rigor, Clean code |
+| **Language** | Français · English · Code |
+
+---
+
+## 🔗 Connect
 
 <p align="center">
   <a href="https://thedarkiin.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-005f73?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:asermouhyassin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asermouhyassin@gmail.com-003049?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-003049?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Thedarkiin">
-    <img src="https://img.shields.io/badge/GitHub-@Thedarkiin-001219?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-001219?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
