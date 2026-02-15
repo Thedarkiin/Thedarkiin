@@ -15,7 +15,7 @@
 
 ## 👋 About
 
-Data Science student at **INSEA** (Rabat, Morocco). I always seek building systems not only that think clearly — code that's reproducible, mathematically rigorous, and built almost to last. Obsessed (WOWOW not that much hhh) with understanding *how* things work, not just *that* they work. Curiosity-driven: mathematics, physics, psychology... ALL type of sciences actually. When not coding: solo free climbs, playing volleyball, contemplating the sea, movies, anime sometimes, plenty of eating, someone stop me already LOL.
+Data Science student here!obsessed (WOWOW not that much hhh) with understanding how things work, not just *that* they work.
 
 <div align="center">
 
