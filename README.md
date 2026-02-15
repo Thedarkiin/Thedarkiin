@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0d47a1,50:512da8,100:673ab7&text=Yassin%20Asermouh%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20ML%20Enthusiast%20|%20Moroccan%20Developer&descAlignY=65&descSize=18&stroke=1a237e" alt="anime tech header"/>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Data+Science+Student;ML+%2B+AI+Explorer;Building+Solutions+With+Data" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=00B4D8&center=true&vCenter=true&width=600&lines=always+learning" alt="typing animation"/>
