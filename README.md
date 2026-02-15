@@ -15,7 +15,8 @@
 
 ## 👋 About
 
-Data Science student here!obsessed (WOWOW not that much hhh) with understanding how things work, not just *that* they work.
+Data Science student here!
+Obsessed (WOWOW not that much hhh) with understanding how things work, not just *that* they work.
 
 <div align="center">
 
