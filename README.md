@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:2c2c2c,100:0d7377&text=Asermouh%20Yassin&fontSize=52&fontColor=ffffff&fontAlign=center&fontAlignY=45&desc=Data%20Science&descSize=16&descColor=cccccc&descAlignY=70" alt="professional header"/>
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=0d7377&center=true&vCenter=true&width=800&lines=Yesterday+is+history,+tomorrow+is+a+mystery,+but+today+is+a+gift" alt="typing animation"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=0d7377&center=true&vCenter=true&width=700&lines=Yesterday+is+history;Tomorrow+is+a+mystery;But+today+is+a+gift;That's+why+it's+called+the+present" alt="typing animation"/>
+</div>
 ---
 
 </div>
