@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Data+Science+Student;ML+%2B+AI+Explorer;Building+Solutions+With+Data" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e3c72,50:2a5298,100:7e22ce&text=Yassin%20Asermouh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20•%20Data%20Science%20•%20Python%20•%20Rabat&descAlignY=62&descSize=16" alt="professional header"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=00B4D8&center=true&vCenter=true&width=600&lines=always+learning" alt="typing animation"/>
@@ -15,7 +15,7 @@
 ## 👋 About
 
 Data Science student here!
-Obsessed (WOWOW not that much hhh) with understanding how things work, not just *that* they work.
+Obsessed (not that much hhh) with understanding how things work, not just *that* they work.
 
 <div align="center">
 
