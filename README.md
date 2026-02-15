@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:2c2c2c,100:1a4d2e&text=Asermouh%20Yassin&fontSize=52&fontColor=ffffff&fontAlign=center&fontAlignY=45&desc=Data%20Science&descSize=16&descColor=cccccc&descAlignY=70" alt="professional header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:2c2c2c,100:2d5a4d&text=Asermouh%20Yassin&fontSize=52&fontColor=ffffff&fontAlign=center&fontAlignY=45&desc=Data%20Science&descSize=16&descColor=cccccc&descAlignY=70" alt="professional header"/>
 </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=00B4D8&center=true&vCenter=true&width=600&lines=always+learning" alt="typing animation"/>
-</p>
-
-<div align="center">
 
 ---
 
