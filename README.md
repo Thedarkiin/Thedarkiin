@@ -43,9 +43,9 @@ Obsessed (WOWOW not that much hhh) with understanding how things work, not just 
 
 I believe in:
 - **Reproducibility first** — Deterministic pipelines, decoupled codebase, separate environments
-- **Mathematical rigor** — Math is the foundation
-- **Testing everything** — Small, fast tests catch bugs early
-- **Systems thinking** — ML is part of larger ecosystems
+- **Mathematical rigor** — Math is basically the foundation, the essence, if it's not done the right way ,then everything else will be thrown in the trash.
+- **Testing everything** — Small, fast tests catch bugs and inconsistencies early
+- **Systems thinking** — ML is part of larger ecosystems, so the real question sometimes is : How to fit the math within the system ? ;)
 
 <div align="center">
 
@@ -112,9 +112,9 @@ graph LR
 
 ## 🎲 Interests & Outside Code
 
-**Physical:** Climbing (free climbs), Volleyball, Calisthenics  
-**Mental:** Gaming, Strategy, Philosophy  
-**Natural:** Ocean, Mountains, Thinking deeply
+**Physical:** Climbing (free climbs), Volleyball, Calisthenics, Swimming, Football
+**Mental:** Intersection of Neurosience and Psychology, THe outdoors, Gaming
+**Natural:** Ocean, Mountains..
 
 <div align="center">
 
