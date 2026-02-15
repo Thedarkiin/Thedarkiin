@@ -1,6 +1,5 @@
-<!-- Ocean header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:001219,50:003049,100:005f73&text=Yassin%20Asermouh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student&descAlignY=60&descSize=18" alt="ocean header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0d47a1,50:512da8,100:673ab7&text=Yassin%20Asermouh%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20ML%20Enthusiast%20|%20Moroccan%20Developer&descAlignY=65&descSize=18&stroke=1a237e" alt="anime tech header"/>
 </p>
 
 <p align="center">
