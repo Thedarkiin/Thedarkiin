@@ -42,7 +42,7 @@ Obsessed (WOWOW not that much hhh) with understanding how things work, not just 
 ## 💡 How i work
 
 I believe in:
-- **Reproducibility first** — Deterministic pipelines, decoupled codebase, separate env
+- **Reproducibility first** — Deterministic pipelines, decoupled codebase, separate environments
 - **Mathematical rigor** — Math is the foundation
 - **Testing everything** — Small, fast tests catch bugs early
 - **Systems thinking** — ML is part of larger ecosystems
