@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=500&color=0d7377&center=true&vCenter=true&width=700&lines=Yesterday+is+history;Tomorrow+is+a+mystery;But+today+is+a+gift;That's+why+it's+called+the+present" alt="typing animation"/>
 </div>
 
+---
+
 </div>
 
 ## 👋 About
