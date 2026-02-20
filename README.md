@@ -46,7 +46,6 @@ graph LR
     
     F["JavaScript"] --> G["React"]
     F --> H["Three.js"]
-    F --> I["HTML/CSS"]
     
     J["Git"]
     K["Docker"]
@@ -59,7 +58,6 @@ graph LR
     style F fill:#F7DF1E,stroke:#005f73,color:#000,stroke-width:3px
     style G fill:#61DAFB,stroke:#005f73,color:#000
     style H fill:#8B4789,stroke:#005f73,color:#fff
-    style I fill:#1572B6,stroke:#005f73,color:#fff
     style J fill:#F05032,stroke:#005f73,color:#fff,stroke-width:2px
     style K fill:#2496ED,stroke:#005f73,color:#fff,stroke-width:2px
 ```
