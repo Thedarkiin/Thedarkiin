@@ -12,8 +12,7 @@
 
 ## 👋 About
 
-Data Science student here!
-Obsessed (not that much hhh) with understanding how things work, not just *that* they work.
+Data Science student here! That's pretty much all that you need to know :)
 
 <div align="center">
 
@@ -25,9 +24,9 @@ Obsessed (not that much hhh) with understanding how things work, not just *that*
 
 ```
 → Causal Inference
-→ Neural Networks & Deep Learning
-→ Systems Design & Architecture
-→ Mathematical Foundations (always)
+→ Snowflake/ spark
+→ Systems Design
+→ Mathematical Foundations (never stopped doing this)
 ```
 
 <div align="center">
@@ -36,21 +35,7 @@ Obsessed (not that much hhh) with understanding how things work, not just *that*
 
 </div>
 
-## 💡 How i work
-
-I believe in:
-- **Reproducibility first** — Deterministic pipelines, decoupled codebase, separate environments
-- **Mathematical rigor** — Math is basically the foundation, the essence, if it's not done the right way ,then everything else will be thrown in the trash.
-- **Testing everything** — Small, fast tests catch bugs and inconsistencies early
-- **Systems thinking** — ML is part of larger ecosystems, so the real question sometimes is : How to fit the math within the system ? ;)
-
-<div align="center">
-
----
-
-</div>
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ```mermaid
 graph LR
@@ -107,11 +92,10 @@ graph LR
 
 </div>
 
-## 🎲 Interests & Outside Code
+## Interests & Outside Code
 
 **Physical:** Climbing (free climbs), Volleyball, Calisthenics, Swimming, Football
-**Mental:** Intersection of Neurosience and Psychology, THe outdoors, Gaming
-**Natural:** Ocean, Mountains..
+**Mental:** Intersection of Neurosience and Psychology, The outdoors, Gaming
 
 <div align="center">
 
