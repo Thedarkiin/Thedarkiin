@@ -20,7 +20,7 @@ Data Science student here! That's pretty much all that you need to know :)
 
 </div>
 
-## 🎯 Currently Exploring
+## Currently Exploring
 
 ```
 → Causal Inference
@@ -72,7 +72,7 @@ graph LR
 
 </div>
 
-## 📊 Activity & Contributions
+## Activity & Contributions
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Thedarkiin&theme=dark&background=001219&ring=00B4D8&fire=EE4C2C&currStreakLabel=00B4D8" alt="GitHub Contribution Streak" />
@@ -82,24 +82,10 @@ graph LR
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thedarkiin&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thedarkiin&theme=github_dark" alt="Repos per Language" />
-</p>
-
 <div align="center">
 
 ---
 
-</div>
-
-## Interests & Outside Code
-
-**Physical:** Climbing (free climbs), Volleyball, Calisthenics, Swimming, Football
-**Mental:** Intersection of Neurosience and Psychology, The outdoors, Gaming
-
-<div align="center">
-
----
 
 </div>
 
