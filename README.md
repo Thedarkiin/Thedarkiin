@@ -50,16 +50,16 @@ graph LR
     J["Git"]
     K["Docker"]
     
-    style A fill:#3776AB,stroke:#005f73,color:#fff,stroke-width:3px
+    style A fill:#3776AB,stroke:#005f73,color:#fff,stroke-width:2.5px
     style B fill:#013243,stroke:#005f73,color:#fff
-    style C fill:#150458,stroke:#005f73,color:#fff
-    style D fill:#F7931E,stroke:#005f73,color:#fff
-    style E fill:#EE4C2C,stroke:#005f73,color:#fff
-    style F fill:#F7DF1E,stroke:#005f73,color:#000,stroke-width:3px
-    style G fill:#61DAFB,stroke:#005f73,color:#000
-    style H fill:#8B4789,stroke:#005f73,color:#fff
-    style J fill:#F05032,stroke:#005f73,color:#fff,stroke-width:2px
-    style K fill:#2496ED,stroke:#005f73,color:#fff,stroke-width:2px
+    style C fill:#013243,stroke:#005f73,color:#fff
+    style D fill:#013243,stroke:#005f73,color:#fff
+    style E fill:#013243,stroke:#005f73,color:#fff
+    style F fill:#013243,stroke:#005f73,color:#fff,stroke-width:2.5px
+    style G fill:#013243,stroke:#005f73,color:#fff
+    style H fill:#013243,stroke:#005f73,color:#fff
+    style J fill:#013243,stroke:#005f73,color:#fff,stroke-width:2px
+    style K fill:#013243,stroke:#005f73,color:#fff,stroke-width:2px
 ```
 
 **Core:** Python · JavaScript · PyTorch · React · Three.js · Git · Docker
