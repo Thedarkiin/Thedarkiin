@@ -35,39 +35,6 @@ Data Science student here! That's pretty much all that you need to know :)
 
 </div>
 
-## Tech Stack
-
-```mermaid
-graph LR
-    A["Python"] --> B["NumPy"]
-    A --> C["Pandas"]
-    A --> D["Scikit-learn"]
-    A --> E["PyTorch"]
-    
-    F["JavaScript"]
-    F --> H["Three.js"]
-    
-    J["Git"]
-    K["Docker"]
-    
-    style A fill:#3776AB,stroke:#005f73,color:#fff,stroke-width:2.5px
-    style B fill:#013243,stroke:#005f73,color:#fff
-    style C fill:#013243,stroke:#005f73,color:#fff
-    style D fill:#013243,stroke:#005f73,color:#fff
-    style E fill:#013243,stroke:#005f73,color:#fff
-    style F fill:#013243,stroke:#005f73,color:#fff,stroke-width:2.5px
-    style G fill:#013243,stroke:#005f73,color:#fff
-    style H fill:#013243,stroke:#005f73,color:#fff
-    style J fill:#3776AB,stroke:#005f73,color:#fff,stroke-width:2px
-    style K fill:#3776AB,stroke:#005f73,color:#fff,stroke-width:2px
-```
-
-<div align="center">
-
----
-
-</div>
-
 ## Activity & Contributions
 
 <p align="center">
