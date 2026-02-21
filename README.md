@@ -53,11 +53,6 @@ Data Science student here! That's pretty much all that you need to know :)
 </div>
 
 ## 🔗 Connect
-
-<p align="center">
-  <a href="https://thedarkiin.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-005f73?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="mailto:asermouhyassin@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-003049?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
