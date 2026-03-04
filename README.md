@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2c2c2c,100:0d7377&text=Asermouh%20Yassin&fontSize=52&fontColor=ffffff&fontAlign=center&fontAlignY=45&desc=Data%20Science&descSize=16&descColor=cccccc&descAlignY=70&animation=fadeIn" alt="professional header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2c2c2c,100:0d7377&text=Asermouh%20Yassin&fontSize=52&fontColor=ffffff&fontAlign=center&fontAlignY=45&desc=Data%20Science&descSize=16&descColor=cccccc&descAlignY=70&animation=fadeIn" alt="header"/>
 </p>
 
 <div align="center">
@@ -8,32 +8,21 @@
 
 ---
 
-</div>
+## About
 
-## 👋 About
-
-Data Science student here! That's pretty much all that you need to know :)
-
-<div align="center">
+Data Science student, though I tend to think of myself more as a generalist engineer. Always open to collaborating on interesting projects — feel free to reach out.
 
 ---
-
-</div>
 
 ## Currently Exploring
 
 ```
 → Causal Inference
-→ Snowflake/ spark
+→ Data Engineering
 → Systems Design
-→ Mathematical Foundations (never stopped doing this)
 ```
 
-<div align="center">
-
 ---
-
-</div>
 
 ## Activity & Contributions
 
@@ -45,25 +34,22 @@ Data Science student here! That's pretty much all that you need to know :)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thedarkiin&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
-<div align="center">
-
 ---
 
+## Connect
 
-</div>
-
-## 🔗 Connect
+<p align="center">
   <a href="mailto:asermouhyassin@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-003049?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yassin-asermouh-984aa8249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d7377?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
-
-<div align="center">
 
 ---
 
-</div>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:005f73,100:001219&section=footer" alt="ocean footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:005f73,100:001219&section=footer" alt="footer"/>
 </p>
