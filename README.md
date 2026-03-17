@@ -10,7 +10,8 @@
 
 ## About
 
-Data Science student, though I tend to think of myself more as a generalist engineer. Always open to collaborating on interesting projects — feel free to reach out.
+Data Science student, though I tend to think of myself more as a generalist engineer. Always open to collaborating on interesting projects, 
+feel free to reach out.
 
 ---
 
