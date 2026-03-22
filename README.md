@@ -10,17 +10,20 @@
 
 ## About
 
-Data Science student, though I tend to think of myself more as a generalist engineer. Always open to collaborating on interesting projects, 
-feel free to reach out.
+Data Science student, though I tend to think of myself more as a general purpose engineer, within the tech/it of course. Always open to collaborating on interesting projects, feel free to reach out.
+
+I'm also looking for a job/internship, so if you have a certain task/project within my field of expertise, i'd be very happy to have a discussion over that.
+
 
 ---
 
 ## Currently Exploring
 
 ```
-→ Causal Inference
-→ Data Engineering
-→ Systems Design
+→ Causal Inference ( stopped this for a while )
+→ Data Engineering ( looking onto apache tools, hadoop, and hopefully soon onto cloud-services..)
+→ Systems Design ( very interesting it's lick unlocking a new doorway to production level solutions and high-scale projects )
+→ few shot learning ( mildly specific don't mind that hhhh)
 ```
 
 ---
