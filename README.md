@@ -21,9 +21,9 @@ I'm also looking for a job/internship, so if you have a certain task/project wit
 
 ```
 → Causal Inference ( stopped this for a while )
-→ Data Engineering ( looking onto apache tools, hadoop, and hopefully soon onto cloud-services..)
-→ Systems Design ( very interesting it's lick unlocking a new doorway to production level solutions and high-scale projects )
-→ few shot learning ( mildly specific don't mind that hhhh)
+→ Data Engineering ( currently discovering moer about apache tools, hadoop hdfs, and snowflake...)
+→ Systems Design ( very interesting it's like unlocking a new doorway to production level solutions and high-scale projects )
+→ few shot learning (mildly specific don't mind that hhhh)
 ```
 
 ---
