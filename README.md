@@ -10,9 +10,9 @@
 
 ## About
 
-Data Science student, though I tend to think of myself more as a general purpose engineer/researcher, within the tech/it of course. Always open to collaborating on interesting projects, feel free to reach out.
+Data Science student, though I tend to think of myself more as a interdisciplinary researcher or a curios engineer. Always open to collaborating on interesting projects, feel free to reach out.
 
-I'm also looking for a job/internship, so if you have a certain task/project within my field of expertise, i'd be very happy to have a discussion over that.
+I'm also looking for a job/internship, so if you have a certain project in mind hit me up.
 
 
 ---
@@ -20,11 +20,12 @@ I'm also looking for a job/internship, so if you have a certain task/project wit
 ## Currently Exploring
 
 ```
-→ Causal Inference ( stopped this for a while )
+→ Causal Inference
 → Data Engineering ( currently discovering more about apache tools, hadoop hdfs, and snowflake...)
 → Systems Design ( very interesting it's like unlocking a new doorway to production level solutions and high-scale projects )
-→ few shot learning (mildly specific don't mind that hhhh)
-→ Imitating human learnin in free based rl models ( again mildly specific but i like dwelving onto theses thingies)
+→ neuroplasticity (mildly specific don't mind that hhhh)
+→ medical Ai, specifically 3d segmentation models ( think Unet segresnet )
+→ Imitating human learning in ri free models ( again mildly specific but i like dwelving onto theses thingies)
 ```
 
 ---
