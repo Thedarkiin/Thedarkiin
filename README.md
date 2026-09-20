@@ -1,60 +1,50 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2c2c2c,100:0d7377&text=Asermouh%20Yassin&fontSize=52&fontColor=ffffff&fontAlign=center&fontAlignY=42&desc=AI%20%2F%20Data%20Science%20%C2%B7%20UI%2FUX%20Engineering&descSize=16&descColor=cccccc&descAlignY=68&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2c2c2c,100:0d7377&text=Asermouh%20Yassin&fontSize=52&fontColor=ffffff&fontAlign=center&fontAlignY=45&desc=Researcher%20%C2%B7%20Freelancer%20%C2%B7%20Data%20Science&descSize=16&descColor=cccccc&descAlignY=70&animation=fadeIn" alt="header"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=0d7377&center=true&vCenter=true&width=620&lines=Building+the+model+and+the+interface+it+lives+in;I+care+about+the+part+after+the+notebook" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=0d7377&center=true&vCenter=true&width=620&lines=I+like+problems+where+the+answer+isn%27t+obvious;and+the+data+is+messy" alt="typing animation"/>
 </div>
 
 ---
 
 ## About
 
-Data Science student who builds both the model and the interface it lives in. I work across AI/ML (causal inference, medical imaging, data engineering) and UI/UX engineering, because the best model in the world is useless if nobody can use it. Looking for a Summer 2026 internship where I can do both.
+Researcher and freelancer. Data Science student, though I think of myself more as an interdisciplinary researcher or a curious engineer. I work on AI and I build UIs for the things I make. Open to collaboration if you're working on something interesting, hit me up.
 
 ---
 
-## Currently Building
+## Currently Exploring
 
-- **Causal inference pipelines** for observational health data. Correlation is cheap, causality is the actual job.
-- **3D medical segmentation models** (U-Net, SegResNet). The kind of problem where a few pixels decide whether a scan is flagged.
-- **Data engineering workflows** with Apache tools, HDFS, and Snowflake. Learning what happens after the model leaves the notebook.
-- **UI/UX systems for data-heavy products**. Dashboards, state design, and interfaces that make complex outputs legible to people who are not data scientists.
+→ Causal Inference
+→ Data Engineering (apache tools, HDFS, snowflake)
+→ Systems Design
+→ Neuroplasticity
+→ Medical AI, specifically 3D segmentation (U-Net, SegResNet)
+→ Imitating human learning in RL-free models
 
----
-
-## Selected Work
-
-- **[project-1](https://github.com/Thedarkiin/project-1)** — One line: what it is, who it is for, and one technical decision you made.
-- **[project-2](https://github.com/Thedarkiin/project-2)** — One line: what it is, who it is for, and one technical decision you made.
-- **[project-3](https://github.com/Thedarkiin/project-3)** — One line: what it is, who it is for, and one technical decision you made.
-
-Replace the placeholders with your actual repos. The "one technical decision" is what separates a real README from a tutorial dump. Recruiters scan for evidence you made choices, not just that you followed steps.
 
 ---
 
-## Design & Interface Work
+## Activity
 
-I treat interfaces as part of the system, not decoration. A messy README, broken links, or a lack of visual hierarchy signals a lack of attention to detail. Recruiters read that in the first five seconds.
-
-- **Data-heavy dashboards.** Turning model outputs into something a clinician, analyst, or operator can actually act on.
-- **Component systems.** Building UI that holds up when the data is messy, slow, or missing.
-- **Accessibility and state design.** Error states, loading states, empty states. The unglamorous parts that decide whether a product feels finished.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Thedarkiin&theme=dark&background=001219&ring=00B4D8&fire=EE4C2C&currStreakLabel=00B4D8" alt="GitHub Contribution Streak" />
+</p>
 
 ---
 
-## Signal
+## Connect
 
-- **Building toward something.** Causal inference, medical AI, and interface engineering are not random interests. They all point at the same question: how do you get a model's output into a human's hands without losing the meaning on the way.
-- **Depth over breadth.** A few projects that clearly relate to each other beat twenty abandoned experiments.
-- **Open to collaboration.** If you are working on something at the intersection of AI and interface, reach out.
-
----
-
-## Reach Me
-
-- Email: [asermouhyassin@gmail.com](mailto:asermouhyassin@gmail.com)
-- LinkedIn: [yassin-asermouh](https://www.linkedin.com/in/yassin-asermouh-984aa8249/)
+<p align="center">
+  <a href="mailto:asermouhyassin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-003049?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yassin-asermouh-984aa8249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d7377?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
