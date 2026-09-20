@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2c2c2c,100:0d7377&text=Asermouh%20Yassin&fontSize=52&fontColor=ffffff&fontAlign=center&fontAlignY=45&desc=Researcher%20%C2%B7%20Freelancer%20%C2%B7%20Data%20Science&descSize=16&descColor=cccccc&descAlignY=70&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2c2c2c,100:0d7377&text=Asermouh%20Yassin&fontSize=52&fontColor=ffffff&fontAlign=center&fontAlignY=45&desc=Researcher%20%C2%B7%20Freelancer%20%C2%B7%20AI%20%2B%20UI%2FUX&descSize=16&descColor=cccccc&descAlignY=70&animation=fadeIn" alt="header"/>
 </p>
 
 <div align="center">
@@ -10,19 +10,39 @@
 
 ## About
 
-Researcher and freelancer. Data Science student, though I think of myself more as an interdisciplinary researcher or a curious engineer. I work on AI and I build UIs for the things I make. Open to collaboration if you're working on something interesting, hit me up.
+Researcher and freelancer. Data Science student, though I think of myself more as an interdisciplinary researcher or a curious engineer. I work on AI, and I build the UIs around it. Open to collaboration if you're working on something interesting, hit me up.
 
 ---
 
 ## Currently Exploring
 
+```
 → Causal Inference
 → Data Engineering (apache tools, HDFS, snowflake)
 → Systems Design
 → Neuroplasticity
 → Medical AI, specifically 3D segmentation (U-Net, SegResNet)
 → Imitating human learning in RL-free models
+```
 
+---
+
+## Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d7377?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-0d7377?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0d7377?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-0d7377?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-0d7377?style=for-the-badge&logo=snowflake&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-0d7377?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-0d7377?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-0d7377?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-0d7377?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
