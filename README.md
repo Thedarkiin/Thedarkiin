@@ -65,9 +65,3 @@ Researcher and freelancer. Data Science student, though I think of myself more a
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0d7377?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:005f73,100:001219&section=footer" alt="footer"/>
-</p>
