@@ -15,7 +15,7 @@ I am open to collaboration. [Email](mailto:asermouhyassin@gmail.com) or [LinkedI
 **Current interests**
 
 - Causal inference
-- Data engineering (Apache tools, HDFS, Snowflake)
+- Data engineering (Apache tools, HDFS)
 - Systems design
 - Neuroplasticity
 - Medical AI, specifically 3D segmentation (U-Net, SegResNet)
@@ -30,6 +30,13 @@ I am open to collaboration. [Email](mailto:asermouhyassin@gmail.com) or [LinkedI
 - [AI Trader](https://github.com/Thedarkiin/Trader). A multi-agent paper-trading desk. LLM specialists debate each trade, while plain Python owns every calculation and every decision.
 - [Telecom churn prediction](https://github.com/Thedarkiin/Telecom-churn-prediction). A retention system in a Flask app that predicts customer churn and points to its causal features.
 
+## Other projects
+
+- [Sail the Ocean](https://github.com/Thedarkiin/Onepiece). A 3D sailing experience in the browser, built with Three.js, React and custom WebGL shaders. [Try it live](https://thedarkiin.github.io/Onepiece/).
+- [Foxy Login Screen](https://github.com/Thedarkiin/animated_fox_loginpage). A single-file login page whose fox mascot reacts to what you type, covering her eyes during password entry.
+- [Movie Shelf](https://github.com/Thedarkiin/Movie-shelf-React). A React and Redux app for browsing films through the TMDb API and keeping a personal list.
+- [Voice recognition with a GMM](https://github.com/Thedarkiin/gaussian_mixture_model). A Gaussian mixture model trained to tell whether a voice is mine.
+
 ## Tools
 
 <table>
@@ -38,14 +45,12 @@ I am open to collaboration. [Email](mailto:asermouhyassin@gmail.com) or [LinkedI
     <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/><br/>PyTorch</td>
     <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/><br/>TensorFlow</td>
     <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br/>Pandas</td>
-    <td align="center" width="88"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="40" height="40" alt="Snowflake"/><br/>Snowflake</td>
   </tr>
   <tr>
     <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>React</td>
     <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/>TypeScript</td>
     <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind"/><br/>Tailwind</td>
     <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br/>Figma</td>
-    <td></td>
   </tr>
 </table>
 
