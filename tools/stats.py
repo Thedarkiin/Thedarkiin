@@ -67,10 +67,9 @@ def fetch(token, login):
 
 def overview(data):
     rows = [
-        ("Stars", data["stars"]), ("Forks", data["forks"]),
-        ("Public repositories", data["repos"]), ("Followers", data["followers"]),
+        ("Stars", data["stars"]), ("Public repositories", data["repos"]),
         ("Contributions, last year", data["contributions"]),
-        ("Commits, last year", data["commits"]), ("Pull requests, last year", data["prs"]),
+        ("Commits, last year", data["commits"]),
     ]
     width, height = 340, 40 + 26 * len(rows)
     body = []
