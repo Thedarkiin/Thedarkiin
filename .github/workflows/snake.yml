@@ -30,10 +30,17 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Generate the statistics and activity chart
+        run: python3 tools/stats.py stats_out
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
       - name: Collect the images
         run: |
           cp profile-3d-contrib/profile-green-animate.svg dist/
           cp profile-3d-contrib/profile-night-green.svg dist/
+          cp stats_out/*.svg dist/
 
       - name: Push the images to the output branch
         uses: crazy-max/ghaction-github-pages@v5
