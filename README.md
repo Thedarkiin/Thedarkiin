@@ -1,14 +1,14 @@
 <img src="assets/banner.jpg" width="100%" alt="Five characters running along a beach under summer clouds"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=0D7377&center=true&vCenter=true&width=620&lines=I+like+problems+where+the+answer+isn%27t+obvious;and+the+data+is+messy" alt="I like problems where the answer isn't obvious and the data is messy"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=0D7377&center=true&vCenter=true&width=620&lines=I+like+problems+where+the+answer+isn%27t+obvious;and+the+data+is+messy" alt="Today is a gift."/>
 </div>
 
 # Yassin Asermouh
 
 <img src="https://raw.githubusercontent.com/Thedarkiin/Thedarkiin/output/overview.svg" align="right" alt="GitHub statistics"/>
 
-Researcher and freelancer. I study data science and work on artificial intelligence, along with the interfaces built around it.
+Researcher and freelancer. I study data science and work on artificial intelligence.
 
 I am open to collaboration. [Email](mailto:asermouhyassin@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yassin-asermouh-984aa8249/).
 
