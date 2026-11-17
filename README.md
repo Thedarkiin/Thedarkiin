@@ -1,8 +1,3 @@
-<img src="assets/banner.jpg" width="100%" alt="Five characters running along a beach under summer clouds"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=0D7377&center=true&vCenter=true&width=620&lines=I+like+problems+where+the+answer+isn%27t+obvious;and+the+data+is+messy" alt="Today is a gift."/>
-</div>
 
 # Yassin Asermouh
 
